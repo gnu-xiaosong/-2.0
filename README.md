@@ -13,4 +13,8 @@
 # -2020.09.17,添加安装页面引导。
 让安装更加简单方便，修复以前数据库导入的复杂安装方式，最新ui安装页面，简洁大方。
 自定义网站信息。具体安装引导目录在public/install目录下，独立安装页面，与以前的复杂安装互不干扰。完全独立。即你可以自定义选择安装方式。
-使用方法:http://域名/install/进入安转引导页面，如果你已经安装成功，您可以选择删掉还目录，以防误操作重新安装导致数据丢失。
+使用方法:http://域名/install/
+进入安转引导页面，如果你已经安装成功，您可以选择删掉还目录，以防误操作重新安装导致数据丢失。
+截图如下:
+![](https://common-fd.zol-img.com.cn/g6/M00/07/00/ChMkKV9jhlyIJ7kSAAI0garGuZQAACbsgI2KmsAAjSZ987.jpg)
+![](https://common-fd.zol-img.com.cn/g6/M00/07/00/ChMkKV9jhnaIVSDwAAHRkkgapGQAACbsgKE0VMAAdGq816.jpg)
