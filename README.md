@@ -16,5 +16,5 @@
 使用方法:http://域名/install/
 进入安转引导页面，如果你已经安装成功，您可以选择删掉还目录，以防误操作重新安装导致数据丢失。
 截图如下:
-![](https://common-fd.zol-img.com.cn/g6/M00/07/00/ChMkKV9jhlyIJ7kSAAI0garGuZQAACbsgI2KmsAAjSZ987.jpg)
-![](https://common-fd.zol-img.com.cn/g6/M00/07/00/ChMkKV9jhnaIVSDwAAHRkkgapGQAACbsgKE0VMAAdGq816.jpg)
+![image](https://common-fd.zol-img.com.cn/g6/M00/07/00/ChMkKV9jhlyIJ7kSAAI0garGuZQAACbsgI2KmsAAjSZ987.jpg)
+![image](https://common-fd.zol-img.com.cn/g6/M00/07/00/ChMkKV9jhnaIVSDwAAHRkkgapGQAACbsgKE0VMAAdGq816.jpg)
