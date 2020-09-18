@@ -22,3 +22,4 @@
 添加安装锁，防止程序重新安装。
 # -2020.09.18 添加首页模板
 截图:
+![image](http://www.xskj.store/fileImage/MG_20200918_122455.jpg)
