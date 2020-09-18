@@ -18,3 +18,7 @@
 截图如下:
 ![image](https://common-fd.zol-img.com.cn/g6/M00/07/00/ChMkKV9jhlyIJ7kSAAI0garGuZQAACbsgI2KmsAAjSZ987.jpg)
 ![image](https://common-fd.zol-img.com.cn/g6/M00/07/00/ChMkKV9jhnaIVSDwAAHRkkgapGQAACbsgKE0VMAAdGq816.jpg)
+# -2020.09.18 修复安装锁🔒
+添加安装锁，防止程序重新安装。
+# -2020.09.18 添加首页模板
+截图:
