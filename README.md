@@ -22,7 +22,7 @@
 添加安装锁，防止程序重新安装。
 # -2020.09.18 添加首页模板
 截图:
-![image](http://www.xskj.store/IMG_20200918_122455.jpg)
+![image](https://common-fd.zol-img.com.cn/g6/M00/07/04/ChMkKV9kOSqIGzIRAAHeZ2QG-eoAACc1QP2lbQAAd5_795.jpg)
 # -2020.09.18 添加安装许可页面
 截图:
 ![image]()
